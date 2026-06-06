@@ -12,6 +12,7 @@
   - IAM
   - Amazon Athena
   - Amazon Redshift Serverless
+  - AWS Services
 
 ## Project Workflow
   CSV Files → S3 → Glue Crawler → Glue Catalog → Glue ETL → Processed Output
