@@ -10,8 +10,6 @@
   - AWS Glue Crawler
   - AWS Glue Catalog
   - IAM
-  - Amazon Athena
-  - Amazon Redshift Serverless
   - AWS Services
 
 ## Project Workflow
