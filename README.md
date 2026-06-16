@@ -13,7 +13,7 @@
   - AWS Services
 
 ## Project Workflow
-  CSV Files → S3 → Glue Crawler → Glue Catalog → Glue ETL → Processed Output
+    CSV Files → S3 → Glue Crawler → Glue Catalog → Glue ETL → Processed Output
 
 ## Features
   - Data ingestion
