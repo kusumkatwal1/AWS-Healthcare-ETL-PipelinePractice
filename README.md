@@ -2,7 +2,7 @@
 - AWS-based end-to-end healthcare ETL pipeline using Amazon S3, AWS Glue, Glue Crawlers, and PySpark for patient monitoring data processing, validation, transformation, and Parquet report generation.
 
 ## Project Overview
-  This project builds an end-to-end healthcare data pipeline using AWS Glue and Amazon S3.
+    This project builds an end-to-end healthcare data pipeline using AWS Glue and Amazon S3.
 
 ## AWS Services Used
   - Amazon S3
@@ -16,12 +16,12 @@
     CSV Files → S3 → Glue Crawler → Glue Catalog → Glue ETL → Processed Output
 
 ## Features
-  - Data ingestion
-  - Null handling
-  - Duplicate removal
-  - Invalid record detection
-  - Health status generation
-  - Parquet output generation
+    - Data ingestion
+    - Null handling
+    - Duplicate removal
+    - Invalid record detection
+    - Health status generation
+    - Parquet output generation
 
 ## Output
   Processed healthcare reports stored in Amazon S3.
