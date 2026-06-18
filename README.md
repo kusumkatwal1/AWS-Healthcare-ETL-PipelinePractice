@@ -5,12 +5,12 @@
     This project builds an end-to-end healthcare data pipeline using AWS Glue and Amazon S3.
 
 ## AWS Services Used
-  - Amazon S3
-  - AWS Glue
-  - AWS Glue Crawler
-  - AWS Glue Catalog
-  - IAM
-  - AWS Services
+      - Amazon S3
+      - AWS Glue
+      - AWS Glue Crawler
+      - AWS Glue Catalog
+      - IAM
+      - AWS Services
 
 ## Project Workflow
     CSV Files → S3 → Glue Crawler → Glue Catalog → Glue ETL → Processed Output
