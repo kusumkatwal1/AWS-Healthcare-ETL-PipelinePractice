@@ -24,7 +24,7 @@
     - Parquet output generation
 
 ## Output
-      The output was processed with healthcare reports as stored in Amazon S3.
+      - The output was processed with healthcare reports as stored in Amazon S3.
 
 
 
