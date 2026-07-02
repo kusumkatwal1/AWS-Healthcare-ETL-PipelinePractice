@@ -24,7 +24,7 @@
     - Parquet output generation
 
 ## File Structure: 
-    - README.md -> This is a file containing all the details about the project
+    - README.md : This is a file containing all the details about the project
 
 ## Output
       - The output was processed with healthcare reports as stored in Amazon S3.
