@@ -23,7 +23,7 @@
     - Health status generation
     - Parquet output generation
 
-# File Structure: 
+## File Structure: 
 
 ## Output
       - The output was processed with healthcare reports as stored in Amazon S3.
