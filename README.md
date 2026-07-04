@@ -25,7 +25,7 @@
 
 ## File Structure: 
     - README.md: This is a file containing all the details about the project
-    - AWS_Healthcare_ETL_ProjectKusum.pdf: This is the detail of the actual project
+    - AWS_Healthcare_ETL_ProjectKusum.pdf: This is the detail of the project
 
 ## Output
       - The output was processed with healthcare reports as stored in Amazon S3.
